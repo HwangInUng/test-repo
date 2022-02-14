@@ -1,0 +1,31 @@
+body{
+    color: white;
+    background-color: black;
+}
+.text{
+    color:gray;
+    text-align: center;
+}
+
+.text2{
+    color: skyblue;
+    text-align: center;
+}
+
+.border{
+    border: 0.5px solid gray;
+}
+
+.size{
+    width: 400px;
+    height: 400px;
+}
+
+.margin{
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.padding{
+    padding-top: 40px;
+}
