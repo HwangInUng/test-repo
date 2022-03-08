@@ -1,0 +1,230 @@
+body{
+	font-family: spotify-circular, Helvetica, Arial, sans-serif;
+	margin: 0px;
+  color: white;
+}
+
+nav{
+	background-color: black;
+	height: 80px;
+	display: flex;
+  align-items: center;
+	justify-content: space-around;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
+
+main{
+	background-color: rgb(41, 65, 171);
+	background-image: url(https://www-growth.scdn.co/static/home/bursts.svg);
+	height: 968px;
+	background-size: 175%;
+	background-position: 45% 4%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+div{
+	display: block;
+}
+
+footer{
+	background-color: black;
+	height: 530px;
+	display: flex;
+	justify-content: center;
+}
+
+.nav-text{
+	padding-top: 28px;
+	padding-bottom: 28px;
+	padding-left: 17px;
+	padding-right: 17px;
+	font-weight: 700;
+}
+
+.nav-text:hover{
+	color: #1ED760;
+}
+
+.a:webkit-any-link{
+	color: webkit link;
+	cursor: pointer;
+	text-decoration: underline;
+}
+
+.main-first{
+	position: relative;
+	left: -2.5em;
+}
+
+.main-head{
+	position: relative;
+	left: 225px;
+	padding-bottom: 40px;
+	color: #1ED760;
+	font-size: 146px;
+	line-height: 166px;
+	font-weight: 900;
+}
+
+.main-bottom{
+	color: #1ED760;
+	font-size: 18px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+
+.main-button{
+	color: #2941ab;
+	background-color: #1ED760;
+	font-size: inherit;
+	padding: 14px 32px;
+	font-weight: 700;
+	border: none;
+	border-radius: 500px;
+}
+
+.main-button:hover{
+	transform: scale(1.07);
+	background-color: #1ED760;
+}
+
+button{
+	appearance: auto;
+	-webkit-writing-mode: horizontal-tb !important;
+	font-style: ;
+  font-variant-ligatures: ;
+  font-variant-caps: ;
+  font-variant-numeric: ;
+  font-variant-east-asian: ;
+  font-weight: ;
+	font-stretch: ;
+	font-size: ;
+	font-family: ;
+	color: -internal-light-dark(black, white);
+	text-rendering: auto;
+	letter-spacing: normal;
+	word-spacing: normal;
+	line-height: normal;
+	text-transform: none;
+	text-indent: 0px;
+	text-shadow: none;
+	display: inline-block;
+	text-align: center;
+	cursor: default;
+	box-sizing: border-box;
+	margin: 0em;
+}
+
+.button-box{
+	text-align: center;
+}
+
+.footer-first{
+	display: flex;
+	justify-content: space-between;
+	height: 346px;
+}
+
+.footer-container{
+	max-width: 1170px;
+	width: 100%;
+	padding-top: 80px;
+	padding-bottom: 50px;
+}
+
+.footer-div1{
+	display: flex;
+	justify-content: space-between;
+  width: 60%;
+}
+
+.footer-div2{
+	display: flex;
+	justify-content: flex-end;
+	width: 40%;
+}
+
+.footer-column{
+	padding: 0px 0px 0px 15px;
+}
+
+.ul-head{
+	color: #919496;
+	font-weight: 900;
+	margin: 20px 0px;
+}
+
+.ul-list{
+	list-style: none;
+}
+
+li{
+	padding-top: 3px;
+	padding-bottom: 15px;
+}
+
+.li-text{
+	font-size: 16px;
+}
+
+.li-text:hover{
+	color: #1ED760;
+}
+
+.icon-box{
+	width: 54px;
+	height: 54px;
+	background-color: #222322;
+	border-radius: 50%;
+	margin-right: 15px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.icon{
+	font-size: 24px;
+}
+
+.icon:hover{
+	color: #1ED760;
+}
+
+.first-box{
+	color: #919496;
+	display: flex;
+	justify-content: flex-end;
+	font-size: 12px;
+}
+
+.second-box{
+	color: #919496;
+	display: flex;
+	justify-content: space-between;
+	font-size: 12px;
+}
+
+.usa{
+	font-size: 12px;
+	color: #919496;
+}
+
+.usa:hover{
+	color: #1ED760;
+}
+
+.finish-text{
+	font-size: 16px;
+	color: #919496;
+	margin-right: 24px;
+}
+
+.finish-text:hover{
+	color: #1ED760;
+}
